@@ -57,10 +57,10 @@ const LandingPage: React.FC = () => {
         {/* Title */}
         <div className="text-center mb-16">
           <h1 className="text-6xl md:text-8xl font-bold mb-4 bg-gradient-to-r from-white via-gray-200 to-gray-400 bg-clip-text text-transparent">
-            TOUCHLESS
+            bobthebuilder
           </h1>
           <p className="text-xl md:text-2xl text-gray-400 font-light tracking-wider">
-            INTERACTIVE LEARNING EXPERIENCES
+            Pathshala
           </p>
         </div>
 
