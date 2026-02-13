@@ -1,0 +1,7 @@
+{
+  "name": "Touchless 3D Education",
+  "description": "A futuristic, gesture-controlled 3D education platform using MediaPipe hand tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
